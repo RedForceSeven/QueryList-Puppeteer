@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@nesk/puphpeteer": "^1.4.1"
+    "@nesk/puphpeteer": "^2.0"
   }
 }
